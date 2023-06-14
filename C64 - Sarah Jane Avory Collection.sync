@@ -1,0 +1,33 @@
+name = C64 - SJA Collection
+author = NML32
+url = 
+updated = 2023-06-14
+
+[Briley Witch Chronicles]
+system = C64
+match = Briley Witch Chronicles
+
+[Neutron (PAL)]
+system = C64
+match = Neutron
+
+[Santron]
+system = C64
+match = Santron
+
+[Snow Force]
+system = C64
+match = Snow Force
+
+[Strike Back (d64)]
+system = C64
+match = StrikeBack
+
+[Zeta Wing 1]
+system = C64
+match = zetawing
+
+[Zeta Wing 2]
+system = C64
+match = zetawing2
+
