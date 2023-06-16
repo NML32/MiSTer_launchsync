@@ -1,0 +1,48 @@
+name = Puzzle Games
+author = NML32
+url = 
+updated = 2023-06-14 12:20
+
+[Ballistic (Playstation)]
+system = Playstation
+match = Ballistic
+
+[Bust-A-Move 4 (Playstation)]
+system = Playstation
+match = Bust-A-Move 4
+
+[Mr. Driller (Playstation)]
+system =  Playstation
+match = Mr. Driller
+
+[Old Towers (Genesis)]
+system = Genesis
+match = Old Towers
+
+[Puyo Pop (GBA)]
+system = GameboyAdvance
+match = Puyo Pop (USA)
+
+[Puyo Pop Feaver (GBA)]
+system = GameboyAdvance
+match = Puyo Pop Fever
+
+[Puzzle Bobble - Bust-A-Move (SNES)]
+system = SNES
+match = Puzzle Bobble - Bust-A-Move
+
+[Roll Away (Playstation)]
+system = Playstation
+match = Roll Away
+
+[Shanghai II - Dragon's Eye (Genesis)]
+system = Genesis
+match = Shanghai II - Dragon's Eye
+
+[Tetris Attack (SNES)]
+system = SNES
+match = Tetris Attack
+
+[Tetris Dr. Mario (SNES)]
+system = SNES
+match = Tetris
