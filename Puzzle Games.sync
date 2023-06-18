@@ -1,7 +1,7 @@
 name = Puzzle Games
 author = NML32
 url = https://github.com/NML32/MiSTer_launchsync/raw/main/Puzzle%20Games.sync
-updated = 2023-06-16 12:20
+updated = 2023-06-18 12:20
 
 [Ballistic (Playstation)]
 system = Playstation
@@ -31,6 +31,10 @@ match = Puyo Pop Fever
 system = SNES
 match = Puzzle Bobble - Bust-A-Move
 
+[Puzzle Boy (TurboGrafx-16)]
+system = TGFX16
+match = Puzzle Boy
+
 [Roll Away (Playstation)]
 system = Playstation
 match = Roll Away
@@ -38,6 +42,10 @@ match = Roll Away
 [Shanghai II - Dragon's Eye (Genesis)]
 system = Genesis
 match = Shanghai II - Dragon's Eye
+
+[Super Soukoban (SNES)]
+system =  SNES
+match = Super Soukoban
 
 [Tetris Attack (SNES)]
 system = SNES
