@@ -1,7 +1,7 @@
 name = Puzzle Games
 author = NML32
 url = https://github.com/NML32/MiSTer_launchsync/raw/main/Puzzle%20Games.sync
-updated = 2023-06-18 12:20
+updated = 2023-06-18 14:53
 
 [Ballistic (Playstation)]
 system = Playstation
@@ -54,3 +54,7 @@ match = Tetris Attack
 [Tetris Dr. Mario (SNES)]
 system = SNES
 match = Tetris
+
+[Tricky Kick (TurboGrafx-16)]
+system = TGFX16
+match = Tricky Kick
