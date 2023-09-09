@@ -16,7 +16,7 @@ system =  Playstation
 match = Mr. Driller
 
 [Old Towers (Genesis)]
-system = Genesis
+system = MegaDrive
 match = Old Towers
 
 [Puyo Pop (GBA)]
@@ -40,7 +40,7 @@ system = Playstation
 match = Roll Away
 
 [Shanghai II - Dragon's Eye (Genesis)]
-system = Genesis
+system = MegaDrive
 match = Shanghai II - Dragon's Eye
 
 [Super Soukoban (SNES)]
