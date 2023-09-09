@@ -15,7 +15,7 @@ match = Bust-A-Move 4
 system =  Playstation
 match = Mr. Driller
 
-[Old Towers (Genesis)]
+[Old Towers (MegaDrive)]
 system = MegaDrive
 match = Old Towers
 
@@ -39,7 +39,7 @@ match = Puzzle Boy
 system = Playstation
 match = Roll Away
 
-[Shanghai II - Dragon's Eye (Genesis)]
+[Shanghai II - Dragon's Eye (MegaDrive)]
 system = MegaDrive
 match = Shanghai II - Dragon's Eye
 
