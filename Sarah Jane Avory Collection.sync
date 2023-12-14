@@ -1,0 +1,33 @@
+name = Sarah Jane Avory Collection
+author = NML32
+url = https://github.com/NML32/MiSTer_launchsync/raw/main/Sarah%20Jane%20Avory%20Collection.sync
+updated = 2024-12-14 12:00
+
+[Briley Witch Chronicles C64]
+system = C64
+match = Briley Witch Chronicles
+
+[Neutron (PAL) C64]
+system = C64
+match = Neutron
+
+[Santron C64]
+system = C64
+match = Santron
+
+[Snow Force C64]
+system = C64
+match = Snow Force
+
+[Strike Back (d64) C64]
+system = C64
+match = StrikeBack
+
+[Zeta Wing 1 C64]
+system = C64
+match = zetawing
+
+[Zeta Wing 2 C64]
+system = C64
+match = zetawing2
+
